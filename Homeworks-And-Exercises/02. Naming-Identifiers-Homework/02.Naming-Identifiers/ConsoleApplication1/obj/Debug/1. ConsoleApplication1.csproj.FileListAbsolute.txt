@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\1. ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

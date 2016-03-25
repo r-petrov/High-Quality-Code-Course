@@ -1,0 +1,7 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\11.Unit-testing\11. Unit-Testing-Homework\CustomLinkedList\LinkedListTests\bin\Debug\LinkedListTests.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\11.Unit-testing\11. Unit-Testing-Homework\CustomLinkedList\LinkedListTests\bin\Debug\LinkedListTests.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\11.Unit-testing\11. Unit-Testing-Homework\CustomLinkedList\LinkedListTests\bin\Debug\CustomLinkedList.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\11.Unit-testing\11. Unit-Testing-Homework\CustomLinkedList\LinkedListTests\bin\Debug\CustomLinkedList.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\11.Unit-testing\11. Unit-Testing-Homework\CustomLinkedList\LinkedListTests\obj\Debug\LinkedListTests.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\11.Unit-testing\11. Unit-Testing-Homework\CustomLinkedList\LinkedListTests\obj\Debug\LinkedListTests.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\11.Unit-testing\11. Unit-Testing-Homework\CustomLinkedList\LinkedListTests\obj\Debug\LinkedListTests.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\14.TDD\Generic.Tests\bin\Debug\Generic.Tests.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\14.TDD\Generic.Tests\bin\Debug\Generic.Tests.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\14.TDD\Generic.Tests\bin\Debug\Generic.Tree.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\14.TDD\Generic.Tests\bin\Debug\Generic.Tree.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\14.TDD\Generic.Tests\obj\Debug\Generic.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\14.TDD\Generic.Tests\obj\Debug\Generic.Tests.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\14.TDD\Generic.Tests\obj\Debug\Generic.Tests.pdb

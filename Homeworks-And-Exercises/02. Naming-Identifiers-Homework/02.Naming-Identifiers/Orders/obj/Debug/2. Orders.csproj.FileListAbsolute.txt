@@ -1,0 +1,9 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\Orders\obj\Debug\2. Orders.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\02.Naming-Identifiers-Homework\Orders\bin\Debug\Orders.exe.config
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\02.Naming-Identifiers-Homework\Orders\obj\Debug\Orders.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\02.Naming-Identifiers-Homework\Orders\obj\Debug\Orders.pdb

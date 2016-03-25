@@ -1,0 +1,7 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\Logger\bin\Debug\Logger.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\Logger\bin\Debug\Logger.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\Logger\obj\Debug\Logger.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\Logger\obj\Debug\Logger.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\Logger\bin\Debug\Ninject.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\Logger\bin\Debug\Ninject.xml

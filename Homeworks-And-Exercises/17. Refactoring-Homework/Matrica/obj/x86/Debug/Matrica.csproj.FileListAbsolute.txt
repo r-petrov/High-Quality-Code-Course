@@ -1,0 +1,5 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\17. Refactoring-Homework\Matrica\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\17. Refactoring-Homework\Matrica\bin\Debug\RotatingWalkInMatrix.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\17. Refactoring-Homework\Matrica\bin\Debug\RotatingWalkInMatrix.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\17. Refactoring-Homework\Matrica\obj\x86\Debug\RotatingWalkInMatrix.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\17. Refactoring-Homework\Matrica\obj\x86\Debug\RotatingWalkInMatrix.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\UnitTesting-Stack-Demo\Stack\bin\Debug\SoftUni.Collections.Generic.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\UnitTesting-Stack-Demo\Stack\bin\Debug\SoftUni.Collections.Generic.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\UnitTesting-Stack-Demo\Stack\obj\Debug\SoftUni.Collections.Generic.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\UnitTesting-Stack-Demo\Stack\obj\Debug\SoftUni.Collections.Generic.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\UnitTesting-Stack-Demo\Stack\obj\Debug\SoftUni.Collections.Generic.pdb

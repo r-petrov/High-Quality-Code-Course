@@ -1,0 +1,5 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\09.Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\09.Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\09.Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\09.Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Course\Homeworks-And-Exercises\09.Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb

@@ -1,0 +1,1 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\LoggerTester\LoggerTester\bin\Debug\LoggerTester.exe.config

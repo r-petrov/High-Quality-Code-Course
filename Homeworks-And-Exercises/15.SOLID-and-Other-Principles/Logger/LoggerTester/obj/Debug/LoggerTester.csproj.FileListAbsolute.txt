@@ -1,0 +1,8 @@
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\LoggerTester\bin\Debug\LoggerTester.exe.config
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\LoggerTester\bin\Debug\LoggerTester.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\LoggerTester\bin\Debug\LoggerTester.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\LoggerTester\bin\Debug\Logger.dll
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\LoggerTester\bin\Debug\Logger.pdb
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\LoggerTester\obj\Debug\LoggerTester.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\LoggerTester\obj\Debug\LoggerTester.exe
+D:\SoftUni\Courses\programming_fundamentals\High-Quality-Code\Homeworks-And-Exercises\15.SOLID-and-Other-Principles\Logger\LoggerTester\obj\Debug\LoggerTester.pdb

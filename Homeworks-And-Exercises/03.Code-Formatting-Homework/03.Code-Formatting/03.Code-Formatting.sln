@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ReformatCode", "03.Code-Formatting\1.ReformatCode.csproj", "{5C148254-4F35-4338-885A-31452CA66195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ReformatBadlyFormattedCode", "2.ReformatBadlyFormattedCode\2.ReformatBadlyFormattedCode.csproj", "{1DEFB41E-A03D-4968-8883-30B6319E8FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C148254-4F35-4338-885A-31452CA66195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C148254-4F35-4338-885A-31452CA66195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C148254-4F35-4338-885A-31452CA66195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C148254-4F35-4338-885A-31452CA66195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEFB41E-A03D-4968-8883-30B6319E8FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEFB41E-A03D-4968-8883-30B6319E8FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEFB41E-A03D-4968-8883-30B6319E8FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEFB41E-A03D-4968-8883-30B6319E8FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
